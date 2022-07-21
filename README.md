@@ -24,7 +24,6 @@
 <p align="center">
     <img src="Fine-Tune%20BERT%20for%20Address%20Element%20Extraction%203f9f41c9e81c44b7812e67b9379bc278/ezgif.com-gif-maker.gif" alt="animated" />
 </p>
-![ezgif.com-gif-maker.gif](Fine-Tune%20BERT%20for%20Address%20Element%20Extraction%203f9f41c9e81c44b7812e67b9379bc278/ezgif.com-gif-maker.gif)
 
 
 ### Data Preprocessing and Model Inputs
