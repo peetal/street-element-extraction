@@ -40,6 +40,7 @@
 <p align="center">
     <img src="Fine-Tune%20BERT%20for%20Address%20Element%20Extraction%203f9f41c9e81c44b7812e67b9379bc278/Screen_Shot_2022-07-20_at_11.02.48_AM.png" alt="drawing" width="700"/>
 </p>
+
 ### Model Training and Evaluating
 
 - The model was trained ADAM with additional learning rate decay.
@@ -53,6 +54,7 @@
 <p align="center">
     <img src="Fine-Tune%20BERT%20for%20Address%20Element%20Extraction%203f9f41c9e81c44b7812e67b9379bc278/Screen_Shot_2022-07-20_at_2.00.09_PM.png" alt="drawing" width="700"/>
 </p>
+
 ### Model For Prediction
 
 - It is shown below that before fine-tuning the model, the model is making random predictions for the labels of the tokens, with pretty high loss. However, after tuning, the model could accurately predict each token’s label. Note that loss was computed based on each token’s logit. Thus although the predicted label is correct, loss may still not be zero.
